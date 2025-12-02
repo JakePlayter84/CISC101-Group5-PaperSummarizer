@@ -1,3 +1,6 @@
+Change log (2025-12-01)
+- added "if" loops to help with defining summary levels
+
 Module 2: Section Loop
 
 For each section:
